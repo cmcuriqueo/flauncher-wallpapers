@@ -1,20 +1,10 @@
 {
   "version": 1,
   "wallpapers": [
-    { "name": "Abstract",     "file": "wallpapers/abstract.png",     "category": "abstract" },
-    { "name": "Animal",       "file": "wallpapers/animal.png",       "category": "animal" },
-    { "name": "Architecture", "file": "wallpapers/architecture.png", "category": "architecture" },
-    { "name": "Colorful",     "file": "wallpapers/colorful.png",     "category": "colorful" },
-    { "name": "Landscape",    "file": "wallpapers/landscape.png",    "category": "landscape" },
-    { "name": "Minimal",      "file": "wallpapers/minimal.png",      "category": "minimal" },
-    { "name": "Plant",        "file": "wallpapers/plant.png",        "category": "plant" },
-    { "name": "Space",        "file": "wallpapers/space.png",        "category": "space" },
-    { "name": "Technology",   "file": "wallpapers/technology.png",   "category": "technology" },
-    { "name": "Texture",      "file": "wallpapers/texture.png",      "category": "texture" },
-    { "name": "Fjord",        "file": "wallpapers/fjord.jpg",        "category": "landscape" },
-    { "name": "Canyon",       "file": "wallpapers/canyon.jpg",       "category": "landscape" },
-    { "name": "Highlands",    "file": "wallpapers/highlands.jpg",    "category": "landscape" },
-    { "name": "Himalaya",     "file": "wallpapers/himalaya.jpg",     "category": "landscape" },
-    { "name": "Yosemite",     "file": "wallpapers/yosemite.jpg",     "category": "landscape" }
+    { "name": "Fjord",     "file": "wallpapers/fjord.jpg",     "category": "landscape" },
+    { "name": "Canyon",    "file": "wallpapers/canyon.jpg",    "category": "landscape" },
+    { "name": "Highlands", "file": "wallpapers/highlands.jpg", "category": "landscape" },
+    { "name": "Himalaya",  "file": "wallpapers/himalaya.jpg",  "category": "landscape" },
+    { "name": "Yosemite",  "file": "wallpapers/yosemite.jpg",  "category": "landscape" }
   ]
 }
