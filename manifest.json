@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "wallpapers": [
+    { "name": "Abstract",     "file": "wallpapers/abstract.png",     "category": "abstract" },
+    { "name": "Animal",       "file": "wallpapers/animal.png",       "category": "animal" },
+    { "name": "Architecture", "file": "wallpapers/architecture.png", "category": "architecture" },
+    { "name": "Colorful",     "file": "wallpapers/colorful.png",     "category": "colorful" },
+    { "name": "Landscape",    "file": "wallpapers/landscape.png",    "category": "landscape" },
+    { "name": "Minimal",      "file": "wallpapers/minimal.png",      "category": "minimal" },
+    { "name": "Plant",        "file": "wallpapers/plant.png",        "category": "plant" },
+    { "name": "Space",        "file": "wallpapers/space.png",        "category": "space" },
+    { "name": "Technology",   "file": "wallpapers/technology.png",   "category": "technology" },
+    { "name": "Texture",      "file": "wallpapers/texture.png",      "category": "texture" }
+  ]
+}
