@@ -10,6 +10,11 @@
     { "name": "Plant",        "file": "wallpapers/plant.png",        "category": "plant" },
     { "name": "Space",        "file": "wallpapers/space.png",        "category": "space" },
     { "name": "Technology",   "file": "wallpapers/technology.png",   "category": "technology" },
-    { "name": "Texture",      "file": "wallpapers/texture.png",      "category": "texture" }
+    { "name": "Texture",      "file": "wallpapers/texture.png",      "category": "texture" },
+    { "name": "Fjord",        "file": "wallpapers/fjord.jpg",        "category": "landscape" },
+    { "name": "Canyon",       "file": "wallpapers/canyon.jpg",       "category": "landscape" },
+    { "name": "Highlands",    "file": "wallpapers/highlands.jpg",    "category": "landscape" },
+    { "name": "Himalaya",     "file": "wallpapers/himalaya.jpg",     "category": "landscape" },
+    { "name": "Yosemite",     "file": "wallpapers/yosemite.jpg",     "category": "landscape" }
   ]
 }
